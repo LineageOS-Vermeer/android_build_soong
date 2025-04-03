@@ -43,7 +43,6 @@ var androidmk_denylist []string = []string{
 	"platform_testing/",
 	"prebuilts/",
 	"sdk/",
-	"system/",
 	"test/",
 	"trusty/",
 	// Add back toolchain/ once defensive Android.mk files are removed
